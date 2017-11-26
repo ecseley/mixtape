@@ -20,9 +20,9 @@
     "docker:prod:start": "docker run -it -p 3003:3003 react-pwa-prod"
   },
   "author": {
-    "name" : "Atyantik Technologies Private Limited",
-    "email" : "admin@atyantik.com",
-    "url" : "https://www.atyantik.com/"
+    "name": "Atyantik Technologies Private Limited",
+    "email": "admin@atyantik.com",
+    "url": "https://www.atyantik.com/"
   },
   "license": "MIT",
   "babel": {
